@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a developer passionate about building web applications. Let's connect and create something amazing!
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=hafizabdullah1)
 
 ## About Me
 
@@ -28,5 +29,3 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 ---
 
 Let's build something great together! 😊
-
-![Profile Views](https://komarev.com/ghpvc/?username=hafizabdullah1)
