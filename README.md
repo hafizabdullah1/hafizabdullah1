@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 ## Technologies & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Redux
+- **Frontend:** HTML5, CSS3, Tailwind, Bootstrap, JavaScript, TypeScript, Jquery, React.js, Next.js, Redux
 - **Backend:** Node.js, Express.js, MongoDB, Django, Django REST Framework, Python, SQLite
-- **Tools:** Git, VS Code, Postman, Figma
+- **Tools:** Git, Github, VS Code, Postman, Figma
 
 ---
 
