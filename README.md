@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 ## GitHub Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hafizabdullah1&theme=radical&no-frame=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hafizabdullah1&theme=radical)](https://git.io/streak-stats)
 
 ---
 
