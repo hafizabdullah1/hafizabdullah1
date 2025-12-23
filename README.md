@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafizabdullah1&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizabdullah1&show_icons=true&theme=radical)
+
 
 ---
 
