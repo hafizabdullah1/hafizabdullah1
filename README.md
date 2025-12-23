@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizabdullah1&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizabdullah1&layout=compact&theme=radical)
 
 ---
 
