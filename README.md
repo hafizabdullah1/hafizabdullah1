@@ -2,7 +2,7 @@
 
 Building scalable web applications, mentoring future developers, and sharing knowledge through VisionX Skills.
 
-💼 Lead Developer @ FalconXoft
+💼 Full Stack Developer @ FalconXoft
 🎓 Founder & Lead Instructor @ VisionX Skills
 🚀 Specializing in Django, MERN Stack, REST APIs & Modern Web Technologies
 
