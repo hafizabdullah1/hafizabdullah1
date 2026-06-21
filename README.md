@@ -25,8 +25,6 @@ Building scalable web applications, mentoring future developers, and sharing kno
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hafizabdullah1\&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizabdullah1\&layout=compact\&theme=radical)
-
 ---
 
 ## Technologies & Tools
