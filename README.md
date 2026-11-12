@@ -59,14 +59,14 @@ Git, GitHub, VS Code, Postman, Docker, Figma
 
 ## Connect With Me
 
-📧 Email: [habdullah4510@gmail.com](mailto:habdullah4510@gmail.com)
+Email: [habdullah4510@gmail.com](mailto:habdullah4510@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/hafizabdullah11
+LinkedIn: https://linkedin.com/in/hafizabdullah11
 
-🌐 Portfolio: https://hafizabdullah.site
+Portfolio: https://hafizabdullah.vercel.app
 
-📷 Instagram: https://instagram.com/hafiz_abdullah11
+Instagram: https://instagram.com/hafiz_abdullah11
 
 ---
 
-Let's build impactful products and grow together 🚀
+Let's build impactful products and grow together
